@@ -22,6 +22,10 @@ body {
     float:right;
 }
 
+table {
+    
+}
+
 footer {
     max-width:99.1%;
     height:-111px;
@@ -46,7 +50,7 @@ button {
     position:center;
 }
 
-.developer{/*
+.dev{/*
     position:absolute;*/
     float: right;
 }
