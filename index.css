@@ -1,0 +1,75 @@
+title{
+    margin-top: -277px;
+}
+
+h1 {
+    -webkit-text-stroke: 2px white;
+    font-size: 77px;
+}
+
+body {
+    width:99.1%;
+    height:300%;
+    background-image: url("./img/bgcrop.png");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;   
+    text-align: center;
+}
+
+.precos{
+    float:right;
+}
+
+footer {
+    max-width:99.1%;
+    height:-111px;
+    bottom:-33px;
+    width:100%;
+    text-align: right;
+    background-color: gray;
+    position:relative;
+}
+
+button {
+    text-align: center;
+    
+}
+
+.Pizza {
+    text-align: center;
+}
+
+.social{
+    float: center;
+    position:center;
+}
+
+.developer{/*
+    position:absolute;*/
+    float: right;
+}
+    
+td {
+    text-align:center;
+    color: black;
+    background-color: gray;
+    border: 7px solid yellow;
+}
+
+th {
+    text-align:center;
+    color: black;
+}
+
+a:visited {
+    text-align:center;
+    color: blue;
+}
+
+a:link {
+    text-align:center;
+    text-decoration: none;
+    color: navy;
+}
